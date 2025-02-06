@@ -21,7 +21,7 @@ Ensure you have **Python 3.x** installed on your system.
 ### 📂 Steps to Run the Application
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/todo-list-python.git
+   git clone https://github.com/Rishav-dev-12/ToDo-App.git
    ```
 2. **Navigate to the project directory:**
    ```bash
@@ -69,7 +69,7 @@ This project is open-source and available under the **MIT License**.
 ---
 
 ## 📧 Contact
-For any issues or suggestions, feel free to reach out via **GitHub Issues** or connect on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile).
+For any issues or suggestions, feel free to reach out via **GitHub Issues** or connect on LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/rishav-dev-23382b239/).
 
 ---
 
